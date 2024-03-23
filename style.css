@@ -1131,11 +1131,11 @@ body.light-theme {
   }
 
   .about__data {
-    text-align: initial;
+    text-align: center;
   }
 
   .about__info {
-    justify-content: initial;
+    justify-content: center;
     gap: 2rem;
   }
 
